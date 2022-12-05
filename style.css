@@ -170,6 +170,10 @@ textarea {
     gap: 8px;
 }
 
+.input-wrapper .checkbox-label {
+    margin-bottom: 0;
+}
+
 legend {
     text-align: center;
 }
